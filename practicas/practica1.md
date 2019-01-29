@@ -15,3 +15,13 @@ Crear dos llamadas a sistema con su respectivo comandos para apagar y reiniciar.
 2) Modo Kernel
   + Es el bit para acceder al hw.
   + Se prende cuando se ejecuta el kernel.
+
+3) Interrupciones
+  + Como el hw interactua con el cpu.
+
+4) Interrupciones via software (trap)
+  + Software comunicar con el kernel, SOFTWARE -> CPU -> KERNEL
+  
+## Que Aprendí
+
+## Url del Commit
