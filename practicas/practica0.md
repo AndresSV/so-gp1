@@ -19,3 +19,5 @@ Un sistema operativo esta compuesto de un kernel y de aplicaciones del sistema.
 * La importancia de los markdowns para crear guias amigables y con cierta estructura.
 * El uso de los commandos pull y push de git, y la importancia de las branches en un projecto.
 
+## Link del commit
+https://github.com/AndresSV/so-gp1/commit/62d1339860fa988d25e5bceb956d3b005dc91f8b?diff=split
