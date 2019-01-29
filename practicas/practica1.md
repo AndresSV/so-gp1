@@ -6,7 +6,7 @@ Crear dos llamadas a sistema con su respectivo comandos para apagar y reiniciar.
 * gcc
 * git
 
-##Conceptos
+## Conceptos
 1) Llamadas a sustema
   + Se usan para acceder a hw.
   + Desde el comando son una interrupción.
