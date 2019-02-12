@@ -25,3 +25,6 @@ Crear dos llamadas a sistema con su respectivo comandos para apagar y reiniciar.
 ## Que Aprendí
 
 ## Url del Commit
+
+https://github.com/AndresSV/so-gp1/commit/3b9489b46a7c42675877914bd0914775890d266f
+
