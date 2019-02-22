@@ -24,6 +24,10 @@ Crear dos llamadas a sistema con su respectivo comandos para apagar y reiniciar.
   
 ## Que Aprendí
 
+Aprendi a crear archivos de aplicacion los cuales en este caso nos permitieron crear las llamadas de usario que interactuan directamente con el kernel para que el sistema operativo en este caso pudiera reiniciar y apagar el s.o. que estamos usando. 
+
+Además de el orden en el que el se ejecuta una aplicacion y como agregarlas al sistema.
+
 ## Url del Commit
 
 https://github.com/AndresSV/so-gp1/commit/3b9489b46a7c42675877914bd0914775890d266f
