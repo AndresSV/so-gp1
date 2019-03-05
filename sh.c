@@ -1,8 +1,11 @@
+
 // Shell.
 
 #include "types.h"
 #include "user.h"
 #include "fcntl.h"
+
+
 
 // Parsed command representation
 #define EXEC  1
@@ -12,6 +15,8 @@
 #define BACK  5
 
 #define MAXARGS 10
+
+
 
 struct cmd {
   int type;
@@ -144,6 +149,7 @@ getcmd(char *buf, int nbuf)
 int
 main(void)
 {
+  int i = 0;
   static char buf[100];
   static char prevbuff[100];
   int fd;
@@ -174,13 +180,13 @@ main(void)
         }
       if(fork1() == 0)
         runcmd(parsecmd(buf));
-	  }
-	  int i = 0;
-	  while(i<100){
-	    prevbuff[i] = buf[i];
-	    i++;
+	  
+	  
+	  for(i=0; i<100;i++){
+		  prevbuff[i] = buf[i];
 	  }
 	  wait();
+	  }
   }
   exit();
 }
