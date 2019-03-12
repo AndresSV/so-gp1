@@ -23,4 +23,5 @@ Creaer un programa para probarlo.
 
 # Url del commit
 
-
+Parte #1 https://github.com/AndresSV/so-gp1/commit/e406e81a2838f5d0c685cd13f3eed5f42b31192a
+Parte #2
