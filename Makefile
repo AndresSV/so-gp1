@@ -183,6 +183,8 @@ UPROGS=\
 	_zombie\
 	_shutdown\
 	_reboot\
+	_chpriority\
+	_lspriority\
 	
 
 fs.img: mkfs README $(UPROGS)
