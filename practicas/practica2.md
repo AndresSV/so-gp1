@@ -29,8 +29,11 @@ git
 ++ init
 
 
-##Que aprendi
+## Que aprendi
+
+Que un proceso como el mensaje de bienvenida, asi como la modificación que necesita para poder leer el string necesario para poder ejecutar nuestra aplicación.
 
 
 ## Url del commit
 
+https://github.com/AndresSV/so-gp1/commit/f0043544b32bdaa8ab39943b731b5ed8236b278c
