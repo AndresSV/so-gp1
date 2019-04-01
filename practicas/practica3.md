@@ -21,7 +21,10 @@ Creaer un programa para probarlo.
 
 # ¿Qué apredi?
 
+Planear los procesos necesarios para crear un shell ademas de tener las precauciones para evitar hijos zombie.
+
 # Url del commit
 
-Parte #1 https://github.com/AndresSV/so-gp1/commit/e406e81a2838f5d0c685cd13f3eed5f42b31192a
-Parte #2
++ Parte #1 https://github.com/AndresSV/so-gp1/commit/e406e81a2838f5d0c685cd13f3eed5f42b31192a
+
++ Parte #2 https://github.com/AndresSV/so-gp1/commit/3ee1b4b10bea73f1009a4884bc5bc9fbb0c99bf1
