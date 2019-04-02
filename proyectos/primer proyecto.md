@@ -5,7 +5,7 @@
 
 Modifica el kernel de xv6 para que imprima cada vez que una llamada a sistema se emplee se imprima una línea con el nombre de la llamada a sistema y su número.
 
-Al terminar observa las llamadas al sistema que ocurren cuando arranca el sistema. Explica lo que pasa.
+Al terminar observa las llamadas al sistema que ocurren cuando arranca el sistema. Explica lo que pasa. El sistema oerativo al arrancar utiliza las mismas llamadas a sistema para escribir el mensaje de bienvenida, arranca procesos, mata procesos, crea copias de si mismo autoriza la escritura o remueve los permisos de escritura.
 
 **Pistas:**
 
@@ -41,5 +41,5 @@ A leer código ya escrito previamente y a continuar con el estilo de programaci�
 
 ## Link del commit
 
-* Parte 1:
+* Parte 1: https://github.com/AndresSV/so-gp1/commit/29d17fbf226bc71a339f4216f1f12fa309a06029
 * Parte 2:
