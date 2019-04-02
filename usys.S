@@ -33,4 +33,5 @@ SYSCALL(shutdown)
 SYSCALL(reboot)
 SYSCALL(setpriority)
 SYSCALL(getpriority)
+SYSCALL(date)
 

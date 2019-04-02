@@ -90,12 +90,23 @@ sys_uptime(void)
   return xticks;
 }
 
-int sys_shutdown (void) {
+int 
+sys_shutdown (void) {
   outw(0xB004, 0x0 | 0x2000);
   return 0;
 }
 
-int sys_reboot (void) {
+int 
+sys_reboot (void) {
 	outb(0x64, 0xFE);
 	return 0;
 }
+
+int 
+sys_date(void){
+  struct rtcdate *r;
+  argptr(0, (void*)&r, sizeof(r)); //conecta referencia app usuario con app sistema
+  cmostime(r);
+  return 0;
+}
+	
