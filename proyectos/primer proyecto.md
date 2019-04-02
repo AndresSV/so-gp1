@@ -42,4 +42,4 @@ A leer c√≥digo ya escrito previamente y a continuar con el estilo de programaci√
 ## Link del commit
 
 * Parte 1: https://github.com/AndresSV/so-gp1/commit/29d17fbf226bc71a339f4216f1f12fa309a06029
-* Parte 2:
+* Parte 2: https://github.com/AndresSV/so-gp1/commit/6374e5efb4a8b09317768a7f816dfcb0d78ff564
