@@ -1,4 +1,4 @@
- Objetivo
+# Objetivo
 Hacer un spike sobre IPC: señales, fork/exec, memoria compartida y archivos mapeados a memoria. 
 # Herramientas
 + git
