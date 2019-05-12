@@ -28,7 +28,8 @@ Hacer un spike sobre IPC: señales, fork/exec, memoria compartida y archivos map
 
  # ¿Que aprendí?
  
- 
++ Que los IPC son mecanismos que permiten a los procesos sincronizarse y comunicar sus acciones entre ellos sin necedidad de estar en la misma dirección de memoria.
++ Los IPC so extremadamente utiles sobre todo en un entorno distribuido donde los procesos de comunicacion pueden estar en distintos computadoras dentro de una misma red.
 
  # Url del commit
 
