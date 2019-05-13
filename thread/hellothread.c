@@ -18,7 +18,8 @@ void * printHello(void *td){
 int main(){
 	pthread_t threads[NUM_THREAD];
 	long t;
-	for(t = 0; t < NUM_THREAD; t++){
+	
+	for(t = 0; t < NUM_THREAD; t++){	
 		pthread_create(&threads[t],NULL,printHello,(void *)t);
 	}
 	
@@ -27,5 +28,6 @@ int main(){
 	}
 	
 	printf("Saldo final %ld \n",saldo);
-	
+
+	pthread_exit(NULL);
 }
