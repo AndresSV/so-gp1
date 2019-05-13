@@ -27,4 +27,8 @@ Hacer un spike sobre hilos, semáforos y locks.
 
  # ¿Que aprendí?
 
+Lo importancia de planificar los hilos ya que como en el ejemplo de los filosofos si no se tiene alguna prioridad todos los hilos se pueden morir.
+
  # Url del commit
+
++ https://github.com/AndresSV/so-gp1/commit/ca361309a90b79f13e6e39170ffdd84322d59f9d
